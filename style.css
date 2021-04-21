@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+body{
+    background-image: url("lol.jpg");
+}
+.center{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.btn-submit{
+    margin-top: 10px;
+    background-color: green;
+    font-size: 1em;
+}
+.title{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 100px;
+    margin: 20px auto;
+}
+.subtitle{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+input{
+    height: 30px;
+    width: 500px;
+}
+.bottom-btn{
+    height: 30px;
+    width: 500px;
+}
+.info{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 1.3em;
+}
